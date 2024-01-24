@@ -1,1 +1,2 @@
 # cs426_Pekkarinen_Ethan_Asgn1
+This game is a shooter in which 5 targets must be shot down to win. I am from the suburbs of aurora, an area with many forests and plains, so I used a grass texture for the ground as well as put in some trees. Lots of the downtown buildings around there are older and made of brick, so I made the walls around the play area with a brick texture on them. Finally, I added a skateboard and various guitar props to the scene as I both skateboard and play guitar in my free time.
